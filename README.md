@@ -1,16 +1,22 @@
-## Hi there 👋
+# Embedded Systems and Robotics🤖
 
-<!--
-**AnirudhaDG/AnirudhaDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a robotics and embedded systems engineer with a deep passion for building intelligent machines that bridge the gap between hardware and software. There’s something incredibly exciting about bringing an idea to life—designing circuits, writing firmware, and watching a system work exactly as intended (or sometimes figuring out why it doesn’t!).
 
-Here are some ideas to get you started:
+My journey into robotics started with curiosity and a hands-on approach. One of my most memorable projects was building my first Mars rover, Daruka. At the time, I was still figuring things out, experimenting with different microcontrollers, designing PCBs, and troubleshooting endless hardware issues. But through that process, I learned what it really takes to make a system reliable and efficient. That experience shaped the way I approach every project—whether it's fine-tuning real-time motor control, optimizing embedded systems, or working on autonomous navigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For me, robotics isn’t just about technology—it’s about problem-solving, innovation, and the excitement of creating something that interacts with the world. Whether I’m designing a new PCB, debugging firmware, or exploring new ideas, I’m always looking for ways to push the boundaries of what’s possible.
+
+Check out my [Portfolio](https://anirudhadg.notion.site/Hey-I-m-Anirudha-DG-1a2cbeb8409f80e7a3b0cc8d90f16978) for more
+
+## Stuff that I am doing
+
+- Embedded Systems and Hardware Design Intern @Mecha Systems
+- Electrical and Embedded Systems Lead @ Team RoverX
+- Incoming Robotics Research Associate @ Robotics Research Lab, IIITH
+
+## Socials and portfolio
+
+- [Portfolio](https://anirudhadg.notion.site/Hey-I-m-Anirudha-DG-1a2cbeb8409f80e7a3b0cc8d90f16978)
+- [LinkedIn](https://www.linkedin.com/in/anirudhaduttagupta/)
+- [Resume](https://drive.google.com/drive/folders/1gQA6ygqFTGsE6B2covnSltJueJ74G9Hx)
+- Email: anirudhaduttagupta2004@gmail.com
