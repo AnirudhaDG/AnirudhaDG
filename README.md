@@ -12,7 +12,6 @@ Check out my [Portfolio](https://anirudhadg.notion.site/Hey-I-m-Anirudha-DG-1a2c
 
 - Embedded Systems and Hardware Design Intern @Mecha Systems
 - Electrical and Embedded Systems Lead @ Team RoverX
-- Incoming Robotics Research Associate @ Robotics Research Lab, IIITH
 
 ## Socials and portfolio
 
