@@ -8,7 +8,7 @@ Check out my [Portfolio](https://anirudhadg.notion.site/Hey-I-m-Anirudha-DG-1a2c
 
 ## Stuff that I am doing
 
-- Robotics Research Associat @IIIT Hyderabad
+- Robotics Research Associate @IIIT Hyderabad
 - Embedded Systems and Hardware Design Intern @Mecha Systems
 
 ## Socials and portfolio
